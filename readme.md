@@ -10,7 +10,7 @@ A clean, responsive flower shop landing page built with pure HTML and Tailwind C
 
 ## 📸 Preview
 
-![Bloom House Banner](assets/hero-flower.png)
+![Bloom House Banner](assets/preview.png)
 
 ---
 
